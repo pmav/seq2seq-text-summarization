@@ -1,0 +1,8 @@
+numpy
+pandas
+keras
+nltk
+tensorflow
+bs4
+lxml
+sklearn
